@@ -215,15 +215,6 @@ paper: page_layout,
     ])
   ]
 ]
-= Daftar Pustaka
-
-#bibliography(
-  "citations/bibtex.bib",
-  title: none,
-  full: false,
-  style: "citations/apa.csl",
-)
-
 #set par(
   justify: true,
   first-line-indent: 0pt
